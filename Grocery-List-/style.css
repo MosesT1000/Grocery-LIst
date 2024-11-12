@@ -1,0 +1,41 @@
+.Items {
+  background-color: brown;
+  outline: solid;
+  width: 325px;
+  color: black;
+}
+
+.Top-1 {
+  background-color: bisque;
+  width: 300px;
+  border: 15px solid cornflowerblue;
+  padding: 50px;
+  margin: 20px;
+  display: inline-flexbox;
+}
+
+.Top-2 {
+  background-color: bisque;
+  width: 300px;
+  border: 15px solid cornflowerblue;
+  padding: 50px;
+  margin: 20px;
+  align-content: center;
+}
+
+#container {
+  display: flex;
+}
+
+.Bottom-2 {
+  background-color: bisque;
+  width: 300px;
+  border: 15px solid cornflowerblue;
+  padding: 50px;
+  margin: 20px;
+}
+
+header {
+  text-align: center;
+  color: aqua;
+}
